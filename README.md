@@ -14,4 +14,4 @@ Learned how to create databases, tables, and define relationships.
 
 ## Deliverables
 - SQL script: LibraryDB.sql
-- ER Diagram: Library_ER.png
+- ER Diagram: Library_ER.pdf
